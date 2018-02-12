@@ -1,0 +1,9 @@
+[psql database]
+host = hostname
+db_name = dbname
+user = username
+password = password
+port = 5432
+[s3]
+aws_id = AWS ID
+aws_secret = AWS Secret
